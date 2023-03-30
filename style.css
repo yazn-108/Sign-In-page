@@ -77,3 +77,4 @@ transform: scale(1.3);}
     color: var(--main-text-color);
     margin-bottom: 20px;}
 .service p{margin: 10px;}
+@media (max-width: 768px) {.container{width: 90%;}}
